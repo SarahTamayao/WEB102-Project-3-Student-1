@@ -1,7 +1,5 @@
 # Web Development Project 3 - _CompSci Quizzer_
 
-Submitted by: **Sumit Mandal**
-
 This web app: **Assists users to learn and evaluate their knowledge about different fields in computer science**
 
 Time spent: **3** hours spent in total
